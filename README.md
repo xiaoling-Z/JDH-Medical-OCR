@@ -1,1 +1,0 @@
-# JDH-Medical-OCR
